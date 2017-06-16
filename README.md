@@ -9,3 +9,10 @@ Description goes here...
 ```
 go test
 ```
+
+## Git hooks
+```
+overcommit init
+overcommit --sign
+overcommit run
+```
